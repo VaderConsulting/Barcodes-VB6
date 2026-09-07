@@ -1,6 +1,6 @@
 # Barcodes
 
-VB6 working copy of `Barcodes` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Barcodes. Output: `Barcodes.exe`. Contains 8 project files.
+VB6 barcode toolkit: Access MDB barcode-to-asset interface (`Barcodes.exe`), keyboard wedge apps, and barcode ActiveX/picture controls across several subprojects. Distinct from later .NET barcode work. Open any of the listed `.vbp` files in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** ActiveX OCX, WinForms exe
 
@@ -10,7 +10,7 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `Barcodes` (`Barcodes.vbp`) | VB6 | WinForms exe | Barcodes |
+| `Barcodes` (`Barcodes.vbp`) | VB6 | WinForms exe | Barcode wedge to Access MDB lookup |
 | `EmpiredBarcodeApp` (`Keyboard Barcode (v2)/EmpiredBarcodeApp.vbp`) | VB6 | WinForms exe | EmpiredBarcodeApp |
 | `BCode` (`Barcodes/Projekt1.vbp`) | VB6 | WinForms exe | BCode |
 | `BarPic` (`Barcode Picture/Barpic.vbp`) | VB6 | ActiveX OCX | BarPic |
