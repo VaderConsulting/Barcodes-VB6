@@ -43,7 +43,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Barcodes`.
+Working copy from my Historical Dev folder `VB/Old/Barcodes`.
 Company names in project files: Chips, Bits and Bytes, F@t_F|sh.
 
 ## License
